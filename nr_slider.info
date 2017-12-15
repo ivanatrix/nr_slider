@@ -1,0 +1,3 @@
+name: Node Revision Slider
+dependencies[] = media
+core = "7.x"
